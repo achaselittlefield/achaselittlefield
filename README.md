@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is Austin and I am a full stack web developer. 
-My skills include the following:
-Frontend: React.js, HTML, CSS, Javascript, Jest 
-Backend: Node.js, Express.js,  PostgreSQL, Python
-You can view my website [here.](https://austin-littlefield-portfolio.vercel.app/)
+ - My skills include the following:
+ - Frontend: React.js, HTML, CSS, Javascript, Jest 
+ - Backend: Node.js, Express.js,  PostgreSQL, Python
+ - You can view my website [here.](https://austin-littlefield-portfolio.vercel.app/)
 ## 🔭 I’m currently working on ...
  - A a project to help children learn to read and take a more active role in their education
 ## 🌱 I’m currently learning ...
